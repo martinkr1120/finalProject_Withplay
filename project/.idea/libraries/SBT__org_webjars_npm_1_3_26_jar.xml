@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.webjars:npm:1.3.26:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../activator-dist-1.3.12/repository/org.webjars/npm/1.3.26/jars/npm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

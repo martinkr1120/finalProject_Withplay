@@ -1,0 +1,9 @@
+New log file opened at Thu Dec 08 02:56:06 EST 2016 by 23381@MaLis-Air.fios-router.home
+Sending msg to client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /Users/mali/Downloads/test/test/.sbtserver/connections/activator-1f98de54-3a33-457a-8be1-a37a2eb30a43.log))
+Reading next message from client.
+Client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43 closed, java.net.SocketException: Connection reset, shutting down
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43
+Dropping message DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /Users/mali/Downloads/test/test/.sbtserver/connections/master.log)) to dead client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43
+Dropping message DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /Users/mali/Downloads/test/test/.sbtserver/master.log)) to dead client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43
+Client activator-1f98de54-3a33-457a-8be1-a37a2eb30a43 thread exiting.

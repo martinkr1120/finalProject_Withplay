@@ -1,0 +1,130 @@
+New log file opened at Thu Dec 08 02:56:06 EST 2016 by 23381@MaLis-Air.fios-router.home
+Taking next connection to: 59691
+New client attempting to connect on port: 59692-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59692
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59693-59691
+  Address = /192.168.1.151:59691
+This client on port 59693 has uuid a3d709d6-6bb9-4e78-9943-cda4c4ec8f02 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02
+Taking next connection to: 59691
+New client attempting to connect on port: 59694-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59694
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59695-59691
+  Address = /192.168.1.151:59691
+This client on port 59695 has uuid 1f98de54-3a33-457a-8be1-a37a2eb30a43 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02, activator-1f98de54-3a33-457a-8be1-a37a2eb30a43
+Taking next connection to: 59691
+New client attempting to connect on port: 59696-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59696
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59697-59691
+  Address = /192.168.1.151:59691
+This client on port 59697 has uuid caf17afb-d580-42a6-a9ae-bbe15a3676e7 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02, activator-caf17afb-d580-42a6-a9ae-bbe15a3676e7
+Taking next connection to: 59691
+New client attempting to connect on port: 59698-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59698
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59699-59691
+  Address = /192.168.1.151:59691
+This client on port 59699 has uuid 463e7d3b-d23f-4759-93a0-0cff66b63b99 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02, activator-caf17afb-d580-42a6-a9ae-bbe15a3676e7, activator-463e7d3b-d23f-4759-93a0-0cff66b63b99
+Taking next connection to: 59691
+New client attempting to connect on port: 59700-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59700
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59701-59691
+  Address = /192.168.1.151:59691
+This client on port 59701 has uuid 01d83895-280f-42f0-a191-1ae98ae00ec0 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02, activator-caf17afb-d580-42a6-a9ae-bbe15a3676e7, activator-463e7d3b-d23f-4759-93a0-0cff66b63b99, activator-01d83895-280f-42f0-a191-1ae98ae00ec0
+Taking next connection to: 59691
+New client attempting to connect on port: 59702-59691
+  Address = /192.168.1.151:59691
+Handshake exception on socket: 59702
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59691
+New client attempting to connect on port: 59703-59691
+  Address = /192.168.1.151:59691
+This client on port 59703 has uuid e54d434a-b193-4a14-a1ba-e7b96028bf43 configName activator humanReadableName Activator protocolVersion unknown featureTags Vector()
+Connected Clients: activator-a3d709d6-6bb9-4e78-9943-cda4c4ec8f02, activator-caf17afb-d580-42a6-a9ae-bbe15a3676e7, activator-463e7d3b-d23f-4759-93a0-0cff66b63b99, activator-01d83895-280f-42f0-a191-1ae98ae00ec0, activator-e54d434a-b193-4a14-a1ba-e7b96028bf43
+Taking next connection to: 59691

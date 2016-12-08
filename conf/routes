@@ -1,0 +1,3 @@
+GET / controllers.Application.index
+
+GET /search/:nodeID controllers.Application.search(nodeID)
